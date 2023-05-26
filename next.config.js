@@ -3,7 +3,6 @@ const nextConfig = {
   experimental: {
     appDir: true,
     serverComponentsExternalPackages: ["bcrypt"],
-    forceSwcTransforms: false,
   },
   typescript: {
     // !! WARN !!
